@@ -1,4 +1,14 @@
 # MyAndroidPortfolio-rybackpo
+
+Final Project
+
+GitHub:
+     **TexTo** (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000)
+
+Google Play:
+     **TexTo** (https://play.google.com/store/apps/details?id=ph.edu.dlsu.texto)
+
+
 A Collection of Basic Android Exercises
 
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-rybackpo)
